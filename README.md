@@ -19,21 +19,6 @@ note: new features that release after presentation
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/e4b16c9b-8d6c-4265-a0c5-a8ddc7094a48" width = '150'>
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/3772bf1b-d11f-46ba-aee8-ec1c03255680" width = '150'>
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/8bed3f5d-7f17-4d45-9a7f-8f55a5fa6d59" width = '150'>
-
-<img src = "https://github.com/kullph/fullnonogram/assets/86610859/30d4c59c-0397-45e9-8fcd-fc61c320761e" width = '150'>
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/029d6b33-687b-4cfc-8308-0fb606498fde" width = '150'>
-
-
-
-
-![Screen_recording_20240107_192529](https://github.com/kullph/fullnonogram/assets/86610859/30d4c59c-0397-45e9-8fcd-fc61c320761e| width=100)
-![Screen_recording_20240107_193525](https://github.com/kullph/fullnonogram/assets/86610859/029d6b33-687b-4cfc-8308-0fb606498fde| width=100)
-
-
-
-
-
-
-
-
-
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/b4df18ee-2e46-4738-96d2-74e200deab52" width = '150'>
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/28047dff-f28a-4409-9f49-7e2b3b162bf3" width = '150'>
