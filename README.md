@@ -1,4 +1,4 @@
-# nonogram-JSMT
+```# nonogram-JSMT
 Pattapon Apichatchotikun  6410742065
 Chaibancha Rangklang      6410742230
 Kullaphat Kajhan          6410742297
@@ -10,4 +10,4 @@ note: release after presentation
       - player level limit
       - RANDOM level
       - better UI
-      - better level design
+      - better level design```
