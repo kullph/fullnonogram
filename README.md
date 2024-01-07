@@ -14,7 +14,16 @@ note: new features that release after presentation
       - viewModel based
       - better level design
 ```
-![image](https://github.com/kullph/fullnonogram/assets/86610859/2cfb087b-7bbb-4825-b237-317af104ce24| width=100) ![image](https://github.com/kullph/fullnonogram/assets/86610859/ec86014f-8382-406b-a5d0-637215b12a0c| width=100)
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/2cfb087b-7bbb-4825-b237-317af104ce24" width = '100'>
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/ec86014f-8382-406b-a5d0-637215b12a0c" width = '100'>
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/e4b16c9b-8d6c-4265-a0c5-a8ddc7094a48" width = '100'>
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/3772bf1b-d11f-46ba-aee8-ec1c03255680" width = '100'>
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/8bed3f5d-7f17-4d45-9a7f-8f55a5fa6d59" width = '100'>
+
+
+
+
+![image](https://github.com/kullph/fullnonogram/assets/86610859/ec86014f-8382-406b-a5d0-637215b12a0c| width=100)
 ![image](https://github.com/kullph/fullnonogram/assets/86610859/e4b16c9b-8d6c-4265-a0c5-a8ddc7094a48| width=100) ![image](https://github.com/kullph/fullnonogram/assets/86610859/3772bf1b-d11f-46ba-aee8-ec1c03255680| width=100)
 ![image](https://github.com/kullph/fullnonogram/assets/86610859/8bed3f5d-7f17-4d45-9a7f-8f55a5fa6d59| width=100)
 
