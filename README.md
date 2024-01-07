@@ -8,8 +8,8 @@ Tanasit     Vanachayangkul   6410742396
 Software project for SF333
 
 note: release after presentation
-      - player level limit
-      - RANDOM level
+      - player level
+      - a RANDOM level
       - better UI
       - viewModel based
       - better level design
