@@ -22,3 +22,4 @@ note: new features that release after presentation
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/a894890e-116f-48f0-9327-eedb55fb10e8" width = '150'>
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/b4df18ee-2e46-4738-96d2-74e200deab52" width = '150'>
 <img src = "https://github.com/kullph/fullnonogram/assets/86610859/28047dff-f28a-4409-9f49-7e2b3b162bf3" width = '150'>
+<img src = "https://github.com/kullph/fullnonogram/assets/86610859/ba0d0421-4900-4b2f-b9d9-1485bf1fb35b" width = '150'>
