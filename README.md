@@ -11,4 +11,5 @@ note: release after presentation
       - player level limit
       - RANDOM level
       - better UI
+      - viewModel based
       - better level design
